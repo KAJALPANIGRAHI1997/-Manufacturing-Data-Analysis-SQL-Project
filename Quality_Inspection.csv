@@ -1,0 +1,351 @@
+﻿Batch_ID,Product_Name,Units_Checked,Defective_Units,Defect_Type,Inspector_Name,Line_Number,Inspection_Date
+BATCH-1007,Module-Y,329,7,Component Missing,Inspector-9,Line-3,18-02-2024
+BATCH-1007,PCB-200,221,3,Component Missing,Inspector-5,Line-1,18-04-2024
+BATCH-1007,Module-Y,271,24,Short Circuit,Inspector-7,Line-3,11-11-2024
+BATCH-1009,PCB-100,237,13,Short Circuit,Inspector-7,Line-3,28-09-2024
+BATCH-1010,PCB-200,301,26,Misalignment,Inspector-7,Line-4,25-03-2024
+BATCH-1011,PCB-200,151,9,Solder Issue,Inspector-6,Line-2,19-04-2024
+BATCH-1011,PCB-200,187,27,Short Circuit,Inspector-4,Line-2,30-10-2024
+BATCH-1016,PCB-200,170,19,Component Missing,Inspector-5,Line-4,12-09-2024
+BATCH-1019,PCB-100,171,16,Misalignment,Inspector-3,Line-2,20-01-2024
+BATCH-1019,Module-X,198,15,Component Missing,Inspector-3,Line-3,29-09-2024
+BATCH-1020,Module-X,337,4,Component Missing,Inspector-3,Line-3,07-10-2024
+BATCH-1021,PCB-200,339,24,Misalignment,Inspector-2,Line-2,07-01-2024
+BATCH-1025,Module-X,213,1,Misalignment,Inspector-9,Line-4,31-10-2024
+BATCH-1026,Module-Y,200,19,Short Circuit,Inspector-7,Line-3,13-06-2024
+BATCH-1028,Module-X,316,20,Short Circuit,Inspector-9,Line-4,29-07-2024
+BATCH-1029,PCB-100,209,11,Short Circuit,Inspector-9,Line-4,12-11-2024
+BATCH-1032,Module-Y,239,14,Solder Issue,Inspector-3,Line-3,30-04-2024
+BATCH-1038,Module-Y,241,2,Misalignment,Inspector-2,Line-1,30-09-2024
+BATCH-1040,Module-Y,157,16,Solder Issue,Inspector-5,Line-1,06-02-2024
+BATCH-1042,PCB-200,313,16,Component Missing,Inspector-1,Line-2,08-10-2024
+BATCH-1043,PCB-100,151,10,Solder Issue,Inspector-5,Line-1,13-09-2024
+BATCH-1045,Module-X,255,8,Component Missing,Inspector-1,Line-4,23-05-2024
+BATCH-1045,PCB-200,340,21,Short Circuit,Inspector-6,Line-4,01-10-2024
+BATCH-1046,PCB-200,311,5,Short Circuit,Inspector-7,Line-1,21-06-2024
+BATCH-1048,Module-Y,163,4,Solder Issue,Inspector-4,Line-2,22-06-2024
+BATCH-1049,PCB-200,339,12,Misalignment,Inspector-1,Line-2,20-04-2024
+BATCH-1050,PCB-200,231,3,Component Missing,Inspector-5,Line-1,01-05-2024
+BATCH-1053,PCB-100,337,22,Solder Issue,Inspector-1,Line-1,19-02-2024
+BATCH-1055,Module-Y,306,8,Short Circuit,Inspector-3,Line-1,04-12-2024
+BATCH-1061,PCB-100,220,23,Short Circuit,Inspector-3,Line-4,05-07-2024
+BATCH-1062,Module-Y,285,29,Misalignment,Inspector-3,Line-3,06-07-2024
+BATCH-1065,Module-Y,230,12,Solder Issue,Inspector-9,Line-4,19-10-2024
+BATCH-1065,PCB-200,182,0,Short Circuit,Inspector-8,Line-4,01-11-2024
+BATCH-1068,Module-X,190,0,Misalignment,Inspector-4,Line-3,17-08-2024
+BATCH-1069,Module-X,221,18,Misalignment,Inspector-5,Line-2,02-09-2024
+BATCH-1069,Module-Y,197,16,Misalignment,Inspector-2,Line-4,20-10-2024
+BATCH-1072,PCB-100,186,20,Component Missing,Inspector-3,Line-2,02-06-2024
+BATCH-1074,Module-X,184,17,Solder Issue,Inspector-5,Line-2,20-02-2024
+BATCH-1085,PCB-200,324,0,Solder Issue,Inspector-7,Line-3,14-06-2024
+BATCH-1086,Module-X,154,12,Short Circuit,Inspector-9,Line-1,10-05-2024
+BATCH-1089,PCB-100,252,29,Solder Issue,Inspector-7,Line-3,07-02-2024
+BATCH-1091,Module-Y,164,6,Short Circuit,Inspector-5,Line-1,21-10-2024
+BATCH-1095,Module-X,328,13,Component Missing,Inspector-8,Line-2,21-01-2024
+BATCH-1101,PCB-200,245,6,Component Missing,Inspector-4,Line-4,09-10-2024
+BATCH-1103,PCB-200,300,4,Short Circuit,Inspector-4,Line-4,20-07-2024
+BATCH-1105,Module-Y,320,11,Solder Issue,Inspector-1,Line-4,08-01-2024
+BATCH-1105,PCB-200,309,1,Misalignment,Inspector-1,Line-1,23-06-2024
+BATCH-1110,PCB-100,177,9,Solder Issue,Inspector-8,Line-1,21-02-2024
+BATCH-1112,PCB-200,211,19,Solder Issue,Inspector-1,Line-3,03-09-2024
+BATCH-1116,PCB-200,177,14,Component Missing,Inspector-9,Line-4,15-06-2024
+BATCH-1118,PCB-200,233,19,Short Circuit,Inspector-5,Line-1,04-09-2024
+BATCH-1119,PCB-200,277,8,Component Missing,Inspector-1,Line-2,29-06-2024
+BATCH-1121,Module-Y,339,22,Solder Issue,Inspector-4,Line-1,21-07-2024
+BATCH-1123,Module-Y,339,7,Solder Issue,Inspector-7,Line-3,30-07-2024
+BATCH-1128,Module-Y,152,28,Solder Issue,Inspector-6,Line-1,07-08-2024
+BATCH-1129,Module-Y,304,5,Component Missing,Inspector-1,Line-3,06-03-2024
+BATCH-1129,PCB-200,200,16,Short Circuit,Inspector-9,Line-1,31-07-2024
+BATCH-1129,Module-X,208,17,Solder Issue,Inspector-9,Line-2,22-10-2024
+BATCH-1141,PCB-100,329,29,Component Missing,Inspector-2,Line-4,24-05-2024
+BATCH-1142,Module-X,201,2,Component Missing,Inspector-9,Line-1,07-03-2024
+BATCH-1142,Module-X,279,27,Component Missing,Inspector-5,Line-4,02-05-2024
+BATCH-1143,Module-Y,262,18,Short Circuit,Inspector-7,Line-2,09-01-2024
+BATCH-1145,Module-X,262,3,Solder Issue,Inspector-1,Line-3,02-10-2024
+BATCH-1155,PCB-200,203,6,Solder Issue,Inspector-1,Line-4,10-04-2024
+BATCH-1155,Module-X,278,14,Short Circuit,Inspector-6,Line-4,14-09-2024
+BATCH-1157,PCB-100,202,26,Short Circuit,Inspector-7,Line-4,21-04-2024
+BATCH-1158,PCB-200,347,27,Short Circuit,Inspector-2,Line-3,03-06-2024
+BATCH-1158,PCB-100,333,19,Short Circuit,Inspector-5,Line-4,08-08-2024
+BATCH-1165,PCB-200,173,25,Misalignment,Inspector-2,Line-3,10-01-2024
+BATCH-1167,Module-X,347,0,Component Missing,Inspector-9,Line-1,24-06-2024
+BATCH-1168,PCB-200,246,22,Solder Issue,Inspector-2,Line-2,11-04-2024
+BATCH-1169,PCB-100,219,29,Misalignment,Inspector-7,Line-1,22-01-2024
+BATCH-1170,PCB-100,336,6,Short Circuit,Inspector-8,Line-1,22-02-2024
+BATCH-1171,Module-X,344,1,Short Circuit,Inspector-3,Line-1,11-05-2024
+BATCH-1187,Module-X,348,12,Misalignment,Inspector-4,Line-1,08-02-2024
+BATCH-1191,PCB-100,317,11,Short Circuit,Inspector-6,Line-1,23-10-2024
+BATCH-1195,Module-X,278,3,Short Circuit,Inspector-2,Line-4,18-08-2024
+BATCH-1197,Module-X,327,4,Misalignment,Inspector-1,Line-1,23-01-2024
+BATCH-1202,PCB-200,191,23,Short Circuit,Inspector-7,Line-1,15-09-2024
+BATCH-1203,PCB-200,239,16,Solder Issue,Inspector-8,Line-4,23-02-2024
+BATCH-1205,Module-Y,262,9,Misalignment,Inspector-4,Line-1,22-07-2024
+BATCH-1207,Module-X,289,5,Misalignment,Inspector-6,Line-2,01-08-2024
+BATCH-1210,Module-Y,158,11,Solder Issue,Inspector-9,Line-3,08-03-2024
+BATCH-1215,Module-X,197,29,Short Circuit,Inspector-2,Line-1,07-07-2024
+BATCH-1216,PCB-200,203,10,Component Missing,Inspector-8,Line-2,01-01-2024
+BATCH-1217,Module-X,265,8,Component Missing,Inspector-3,Line-3,16-09-2024
+BATCH-1219,PCB-200,313,7,Short Circuit,Inspector-8,Line-1,25-06-2024
+BATCH-1219,PCB-200,261,23,Short Circuit,Inspector-6,Line-3,05-09-2024
+BATCH-1223,PCB-200,302,9,Short Circuit,Inspector-2,Line-3,24-01-2024
+BATCH-1225,Module-X,231,11,Misalignment,Inspector-5,Line-4,17-09-2024
+BATCH-1226,PCB-100,338,5,Short Circuit,Inspector-5,Line-2,18-09-2024
+BATCH-1231,PCB-100,217,27,Short Circuit,Inspector-7,Line-2,02-11-2024
+BATCH-1234,Module-X,197,25,Solder Issue,Inspector-2,Line-3,19-08-2024
+BATCH-1236,Module-X,284,6,Short Circuit,Inspector-9,Line-2,11-01-2024
+BATCH-1240,Module-Y,325,23,Component Missing,Inspector-4,Line-4,19-09-2024
+BATCH-1247,PCB-200,268,6,Solder Issue,Inspector-6,Line-1,26-03-2024
+BATCH-1252,PCB-200,187,0,Misalignment,Inspector-4,Line-3,03-10-2024
+BATCH-1255,Module-X,331,1,Component Missing,Inspector-5,Line-4,09-03-2024
+BATCH-1260,Module-Y,170,0,Misalignment,Inspector-4,Line-4,12-05-2024
+BATCH-1268,Module-X,260,27,Component Missing,Inspector-6,Line-2,23-11-2024
+BATCH-1272,Module-Y,197,11,Short Circuit,Inspector-3,Line-1,20-08-2024
+BATCH-1273,PCB-200,341,2,Component Missing,Inspector-7,Line-2,25-05-2024
+BATCH-1273,PCB-100,321,17,Component Missing,Inspector-6,Line-4,09-08-2024
+BATCH-1275,PCB-100,195,10,Component Missing,Inspector-1,Line-1,24-02-2024
+BATCH-1276,Module-X,273,25,Short Circuit,Inspector-9,Line-3,21-08-2024
+BATCH-1278,PCB-100,242,12,Short Circuit,Inspector-1,Line-4,26-05-2024
+BATCH-1285,Module-X,244,7,Misalignment,Inspector-3,Line-2,13-11-2024
+BATCH-1288,PCB-100,265,23,Solder Issue,Inspector-2,Line-4,22-08-2024
+BATCH-1292,PCB-100,310,25,Solder Issue,Inspector-1,Line-3,05-12-2024
+BATCH-1293,Module-X,174,22,Short Circuit,Inspector-4,Line-4,13-05-2024
+BATCH-1294,PCB-100,207,25,Misalignment,Inspector-6,Line-1,10-03-2024
+BATCH-1300,PCB-200,173,28,Component Missing,Inspector-3,Line-2,27-03-2024
+BATCH-1300,PCB-200,235,27,Solder Issue,Inspector-6,Line-1,03-05-2024
+BATCH-1301,Module-X,279,13,Misalignment,Inspector-7,Line-3,28-03-2024
+BATCH-1301,Module-X,310,10,Short Circuit,Inspector-2,Line-1,06-12-2024
+BATCH-1302,PCB-100,188,11,Misalignment,Inspector-8,Line-1,29-03-2024
+BATCH-1305,PCB-100,248,14,Component Missing,Inspector-4,Line-3,08-07-2024
+BATCH-1309,Module-Y,162,22,Short Circuit,Inspector-8,Line-2,25-01-2024
+BATCH-1313,Module-Y,206,24,Component Missing,Inspector-7,Line-4,09-07-2024
+BATCH-1316,Module-Y,214,5,Misalignment,Inspector-9,Line-2,04-05-2024
+BATCH-1317,Module-Y,293,29,Misalignment,Inspector-1,Line-1,23-07-2024
+BATCH-1329,PCB-200,292,1,Short Circuit,Inspector-9,Line-2,04-06-2024
+BATCH-1331,PCB-200,181,14,Component Missing,Inspector-8,Line-1,12-01-2024
+BATCH-1335,PCB-100,200,19,Component Missing,Inspector-4,Line-4,25-02-2024
+BATCH-1339,Module-Y,339,0,Solder Issue,Inspector-1,Line-3,21-03-2024
+BATCH-1343,PCB-200,207,27,Solder Issue,Inspector-3,Line-4,14-05-2024
+BATCH-1348,PCB-200,319,17,Short Circuit,Inspector-1,Line-4,09-02-2024
+BATCH-1351,Module-X,337,9,Solder Issue,Inspector-6,Line-3,24-11-2024
+BATCH-1352,Module-Y,202,19,Misalignment,Inspector-2,Line-2,26-01-2024
+BATCH-1352,PCB-100,154,8,Misalignment,Inspector-8,Line-1,26-02-2024
+BATCH-1352,Module-Y,258,11,Misalignment,Inspector-1,Line-2,16-06-2024
+BATCH-1358,PCB-100,248,17,Component Missing,Inspector-8,Line-4,12-04-2024
+BATCH-1363,Module-Y,293,24,Short Circuit,Inspector-5,Line-4,20-09-2024
+BATCH-1363,PCB-200,307,19,Solder Issue,Inspector-8,Line-2,03-11-2024
+BATCH-1365,PCB-200,168,8,Solder Issue,Inspector-7,Line-4,11-03-2024
+BATCH-1371,Module-Y,239,26,Solder Issue,Inspector-7,Line-1,25-11-2024
+BATCH-1375,Module-X,172,21,Solder Issue,Inspector-4,Line-4,17-06-2024
+BATCH-1377,Module-Y,207,22,Solder Issue,Inspector-5,Line-2,12-03-2024
+BATCH-1379,Module-Y,245,22,Component Missing,Inspector-2,Line-3,13-01-2024
+BATCH-1382,Module-X,238,13,Component Missing,Inspector-4,Line-2,10-10-2024
+BATCH-1383,Module-X,165,24,Misalignment,Inspector-9,Line-1,10-08-2024
+BATCH-1384,Module-X,340,18,Misalignment,Inspector-8,Line-3,05-05-2024
+BATCH-1385,PCB-100,344,7,Solder Issue,Inspector-1,Line-4,11-08-2024
+BATCH-1386,Module-Y,328,25,Solder Issue,Inspector-6,Line-3,27-02-2024
+BATCH-1390,Module-X,178,18,Solder Issue,Inspector-5,Line-1,24-07-2024
+BATCH-1394,Module-Y,196,14,Solder Issue,Inspector-6,Line-4,28-02-2024
+BATCH-1399,PCB-100,339,24,Solder Issue,Inspector-4,Line-1,11-10-2024
+BATCH-1405,Module-Y,293,0,Short Circuit,Inspector-5,Line-4,13-03-2024
+BATCH-1413,Module-Y,234,27,Solder Issue,Inspector-7,Line-3,22-04-2024
+BATCH-1413,Module-X,250,18,Misalignment,Inspector-1,Line-4,23-08-2024
+BATCH-1421,Module-X,218,4,Component Missing,Inspector-9,Line-3,24-10-2024
+BATCH-1422,Module-X,287,0,Solder Issue,Inspector-5,Line-2,21-09-2024
+BATCH-1425,PCB-100,245,29,Short Circuit,Inspector-2,Line-3,27-05-2024
+BATCH-1425,PCB-100,153,13,Solder Issue,Inspector-3,Line-1,25-07-2024
+BATCH-1426,PCB-200,277,17,Component Missing,Inspector-1,Line-2,12-10-2024
+BATCH-1426,PCB-100,289,22,Misalignment,Inspector-7,Line-4,25-10-2024
+BATCH-1427,PCB-100,310,20,Short Circuit,Inspector-8,Line-2,29-02-2024
+BATCH-1435,PCB-200,250,2,Component Missing,Inspector-9,Line-2,14-11-2024
+BATCH-1435,Module-Y,310,20,Solder Issue,Inspector-1,Line-1,15-11-2024
+BATCH-1440,PCB-100,193,3,Solder Issue,Inspector-2,Line-1,06-05-2024
+BATCH-1441,Module-X,244,4,Short Circuit,Inspector-9,Line-3,15-05-2024
+BATCH-1449,PCB-100,230,8,Misalignment,Inspector-8,Line-1,13-10-2024
+BATCH-1458,PCB-100,303,27,Short Circuit,Inspector-3,Line-4,30-06-2024
+BATCH-1462,Module-X,264,17,Short Circuit,Inspector-3,Line-3,12-08-2024
+BATCH-1466,PCB-100,207,8,Component Missing,Inspector-2,Line-3,14-03-2024
+BATCH-1466,Module-Y,224,11,Solder Issue,Inspector-1,Line-3,28-05-2024
+BATCH-1466,Module-Y,170,29,Misalignment,Inspector-2,Line-1,02-08-2024
+BATCH-1466,Module-Y,287,18,Component Missing,Inspector-5,Line-3,06-09-2024
+BATCH-1470,PCB-200,341,19,Misalignment,Inspector-8,Line-2,14-01-2024
+BATCH-1472,PCB-100,185,16,Misalignment,Inspector-3,Line-4,16-11-2024
+BATCH-1485,Module-Y,245,22,Misalignment,Inspector-8,Line-1,30-03-2024
+BATCH-1488,PCB-100,186,1,Component Missing,Inspector-6,Line-2,07-12-2024
+BATCH-1492,Module-X,162,4,Short Circuit,Inspector-4,Line-1,10-07-2024
+BATCH-1493,Module-Y,254,0,Solder Issue,Inspector-5,Line-1,15-03-2024
+BATCH-1496,PCB-100,233,20,Short Circuit,Inspector-4,Line-4,27-01-2024
+BATCH-1497,Module-X,336,22,Short Circuit,Inspector-2,Line-3,31-03-2024
+BATCH-1499,Module-X,289,11,Component Missing,Inspector-8,Line-1,28-01-2024
+BATCH-1508,PCB-200,225,2,Component Missing,Inspector-7,Line-1,29-05-2024
+BATCH-1514,Module-X,277,8,Component Missing,Inspector-2,Line-2,08-12-2024
+BATCH-1518,PCB-200,266,14,Short Circuit,Inspector-2,Line-4,26-10-2024
+BATCH-1526,Module-X,174,29,Solder Issue,Inspector-4,Line-4,05-06-2024
+BATCH-1530,Module-X,202,27,Misalignment,Inspector-7,Line-2,22-09-2024
+BATCH-1534,Module-X,188,10,Component Missing,Inspector-5,Line-2,09-12-2024
+BATCH-1535,Module-X,335,18,Short Circuit,Inspector-3,Line-1,26-11-2024
+BATCH-1548,PCB-100,271,23,Short Circuit,Inspector-9,Line-3,24-08-2024
+BATCH-1549,PCB-200,224,3,Misalignment,Inspector-1,Line-3,16-05-2024
+BATCH-1556,PCB-200,158,20,Component Missing,Inspector-4,Line-3,07-05-2024
+BATCH-1559,Module-X,294,0,Component Missing,Inspector-2,Line-2,04-11-2024
+BATCH-1561,Module-X,323,21,Solder Issue,Inspector-3,Line-2,01-04-2024
+BATCH-1563,Module-Y,286,26,Misalignment,Inspector-8,Line-4,22-03-2024
+BATCH-1563,Module-Y,154,28,Misalignment,Inspector-3,Line-4,13-08-2024
+BATCH-1566,PCB-200,232,14,Solder Issue,Inspector-8,Line-2,02-04-2024
+BATCH-1567,PCB-100,214,1,Solder Issue,Inspector-8,Line-3,29-01-2024
+BATCH-1570,Module-X,220,25,Short Circuit,Inspector-7,Line-1,18-06-2024
+BATCH-1570,PCB-200,185,26,Solder Issue,Inspector-5,Line-1,10-12-2024
+BATCH-1571,Module-X,168,29,Component Missing,Inspector-5,Line-1,05-11-2024
+BATCH-1574,Module-X,316,22,Solder Issue,Inspector-5,Line-1,02-01-2024
+BATCH-1574,PCB-200,168,20,Short Circuit,Inspector-3,Line-1,17-11-2024
+BATCH-1578,Module-X,322,0,Component Missing,Inspector-8,Line-2,01-03-2024
+BATCH-1578,Module-X,275,25,Component Missing,Inspector-9,Line-3,11-12-2024
+BATCH-1580,Module-Y,349,2,Short Circuit,Inspector-2,Line-1,11-07-2024
+BATCH-1582,PCB-200,316,28,Misalignment,Inspector-3,Line-4,07-09-2024
+BATCH-1585,PCB-100,241,12,Misalignment,Inspector-7,Line-3,17-05-2024
+BATCH-1589,Module-Y,262,14,Short Circuit,Inspector-2,Line-2,03-01-2024
+BATCH-1590,Module-X,315,9,Component Missing,Inspector-7,Line-2,16-03-2024
+BATCH-1591,PCB-100,193,9,Solder Issue,Inspector-9,Line-1,06-06-2024
+BATCH-1597,PCB-100,210,25,Component Missing,Inspector-6,Line-4,10-02-2024
+BATCH-1598,Module-Y,313,11,Solder Issue,Inspector-2,Line-3,27-11-2024
+BATCH-1601,PCB-200,334,29,Solder Issue,Inspector-7,Line-3,17-03-2024
+BATCH-1609,PCB-100,198,12,Component Missing,Inspector-9,Line-1,03-04-2024
+BATCH-1613,Module-Y,150,5,Misalignment,Inspector-2,Line-2,11-02-2024
+BATCH-1614,Module-Y,293,16,Component Missing,Inspector-5,Line-3,12-02-2024
+BATCH-1617,Module-Y,161,22,Misalignment,Inspector-1,Line-4,26-06-2024
+BATCH-1622,PCB-100,349,3,Component Missing,Inspector-4,Line-2,13-02-2024
+BATCH-1622,Module-X,305,23,Component Missing,Inspector-7,Line-1,18-11-2024
+BATCH-1623,PCB-200,313,7,Misalignment,Inspector-3,Line-1,03-08-2024
+BATCH-1628,PCB-200,209,8,Short Circuit,Inspector-3,Line-4,19-06-2024
+BATCH-1628,PCB-200,250,9,Solder Issue,Inspector-9,Line-3,12-07-2024
+BATCH-1628,Module-X,304,29,Component Missing,Inspector-4,Line-2,08-09-2024
+BATCH-1629,Module-Y,310,26,Short Circuit,Inspector-3,Line-1,28-11-2024
+BATCH-1633,PCB-200,306,1,Solder Issue,Inspector-6,Line-3,29-11-2024
+BATCH-1634,Module-Y,283,8,Misalignment,Inspector-3,Line-1,30-01-2024
+BATCH-1642,PCB-200,196,7,Component Missing,Inspector-5,Line-3,18-05-2024
+BATCH-1643,Module-X,205,7,Component Missing,Inspector-7,Line-3,12-12-2024
+BATCH-1644,PCB-200,154,29,Component Missing,Inspector-5,Line-2,25-08-2024
+BATCH-1644,Module-Y,267,19,Solder Issue,Inspector-6,Line-2,30-11-2024
+BATCH-1647,PCB-200,326,15,Short Circuit,Inspector-7,Line-4,19-05-2024
+BATCH-1652,Module-X,212,1,Short Circuit,Inspector-8,Line-1,04-10-2024
+BATCH-1653,PCB-100,176,15,Solder Issue,Inspector-5,Line-1,27-06-2024
+BATCH-1660,Module-Y,247,15,Solder Issue,Inspector-5,Line-3,09-09-2024
+BATCH-1663,PCB-100,298,20,Solder Issue,Inspector-8,Line-4,04-08-2024
+BATCH-1664,Module-Y,346,13,Misalignment,Inspector-9,Line-2,13-04-2024
+BATCH-1665,PCB-100,330,13,Component Missing,Inspector-9,Line-1,23-04-2024
+BATCH-1665,PCB-200,314,5,Component Missing,Inspector-3,Line-2,10-09-2024
+BATCH-1672,Module-X,294,1,Solder Issue,Inspector-1,Line-1,05-08-2024
+BATCH-1675,Module-X,259,26,Short Circuit,Inspector-8,Line-2,14-08-2024
+BATCH-1675,Module-Y,153,22,Misalignment,Inspector-3,Line-2,23-09-2024
+BATCH-1677,Module-Y,181,21,Short Circuit,Inspector-6,Line-1,14-04-2024
+BATCH-1678,Module-X,221,24,Misalignment,Inspector-2,Line-3,18-03-2024
+BATCH-1684,Module-Y,331,14,Misalignment,Inspector-7,Line-2,24-09-2024
+BATCH-1686,PCB-200,161,21,Short Circuit,Inspector-3,Line-1,15-01-2024
+BATCH-1687,PCB-200,282,8,Solder Issue,Inspector-5,Line-1,05-10-2024
+BATCH-1687,Module-X,294,4,Misalignment,Inspector-1,Line-2,06-11-2024
+BATCH-1687,PCB-100,234,4,Misalignment,Inspector-4,Line-2,07-11-2024
+BATCH-1695,PCB-100,328,21,Short Circuit,Inspector-3,Line-3,04-01-2024
+BATCH-1695,PCB-200,187,19,Short Circuit,Inspector-2,Line-2,14-02-2024
+BATCH-1699,PCB-100,179,1,Short Circuit,Inspector-1,Line-3,19-11-2024
+BATCH-1708,Module-Y,201,10,Short Circuit,Inspector-8,Line-4,26-07-2024
+BATCH-1710,Module-X,228,20,Component Missing,Inspector-3,Line-4,14-10-2024
+BATCH-1728,Module-X,200,11,Misalignment,Inspector-9,Line-1,24-04-2024
+BATCH-1732,Module-X,281,20,Misalignment,Inspector-7,Line-4,04-04-2024
+BATCH-1735,Module-Y,223,21,Component Missing,Inspector-9,Line-2,20-05-2024
+BATCH-1745,Module-X,218,22,Misalignment,Inspector-8,Line-2,13-07-2024
+BATCH-1747,PCB-200,343,9,Component Missing,Inspector-9,Line-3,25-09-2024
+BATCH-1747,PCB-200,192,28,Short Circuit,Inspector-5,Line-3,01-12-2024
+BATCH-1748,PCB-100,332,5,Solder Issue,Inspector-8,Line-3,30-05-2024
+BATCH-1748,Module-Y,157,8,Misalignment,Inspector-5,Line-2,14-07-2024
+BATCH-1752,Module-X,333,23,Short Circuit,Inspector-6,Line-1,15-04-2024
+BATCH-1760,Module-Y,344,2,Component Missing,Inspector-4,Line-2,27-10-2024
+BATCH-1762,PCB-200,327,10,Misalignment,Inspector-9,Line-4,08-11-2024
+BATCH-1774,PCB-200,296,18,Short Circuit,Inspector-3,Line-4,25-04-2024
+BATCH-1777,PCB-200,241,1,Component Missing,Inspector-2,Line-1,16-01-2024
+BATCH-1778,PCB-200,298,8,Component Missing,Inspector-1,Line-4,05-04-2024
+BATCH-1779,Module-Y,161,20,Short Circuit,Inspector-5,Line-2,01-07-2024
+BATCH-1780,PCB-100,326,15,Solder Issue,Inspector-2,Line-3,26-08-2024
+BATCH-1782,Module-X,304,7,Solder Issue,Inspector-2,Line-3,26-04-2024
+BATCH-1785,PCB-100,270,11,Misalignment,Inspector-8,Line-4,21-05-2024
+BATCH-1786,Module-Y,243,13,Misalignment,Inspector-4,Line-4,27-08-2024
+BATCH-1793,Module-X,210,25,Component Missing,Inspector-7,Line-2,11-09-2024
+BATCH-1796,Module-Y,150,23,Misalignment,Inspector-2,Line-3,15-07-2024
+BATCH-1796,Module-Y,329,17,Misalignment,Inspector-2,Line-1,09-11-2024
+BATCH-1799,Module-Y,177,9,Component Missing,Inspector-3,Line-2,31-01-2024
+BATCH-1802,Module-X,279,2,Component Missing,Inspector-7,Line-4,31-05-2024
+BATCH-1808,PCB-100,336,11,Misalignment,Inspector-9,Line-3,19-03-2024
+BATCH-1811,Module-Y,152,5,Misalignment,Inspector-2,Line-3,27-07-2024
+BATCH-1812,Module-Y,167,5,Short Circuit,Inspector-4,Line-4,28-08-2024
+BATCH-1815,PCB-100,264,28,Short Circuit,Inspector-9,Line-4,06-04-2024
+BATCH-1818,PCB-100,177,18,Short Circuit,Inspector-5,Line-3,05-01-2024
+BATCH-1819,Module-X,166,3,Component Missing,Inspector-6,Line-3,10-11-2024
+BATCH-1821,PCB-200,275,20,Component Missing,Inspector-1,Line-4,02-12-2024
+BATCH-1822,Module-X,162,11,Misalignment,Inspector-8,Line-3,06-10-2024
+BATCH-1827,Module-Y,287,1,Solder Issue,Inspector-7,Line-4,27-04-2024
+BATCH-1827,PCB-200,295,28,Misalignment,Inspector-2,Line-4,20-11-2024
+BATCH-1830,Module-X,183,6,Component Missing,Inspector-5,Line-4,28-07-2024
+BATCH-1831,Module-X,232,20,Misalignment,Inspector-5,Line-4,21-11-2024
+BATCH-1832,PCB-100,155,15,Solder Issue,Inspector-6,Line-2,07-06-2024
+BATCH-1834,PCB-100,336,21,Component Missing,Inspector-7,Line-1,16-07-2024
+BATCH-1836,PCB-200,347,29,Short Circuit,Inspector-6,Line-4,02-03-2024
+BATCH-1841,Module-Y,330,2,Short Circuit,Inspector-5,Line-2,08-06-2024
+BATCH-1859,Module-Y,219,19,Component Missing,Inspector-7,Line-3,17-07-2024
+BATCH-1865,PCB-200,243,14,Component Missing,Inspector-2,Line-4,15-08-2024
+BATCH-1865,Module-X,243,12,Misalignment,Inspector-3,Line-4,13-12-2024
+BATCH-1866,PCB-200,280,7,Misalignment,Inspector-4,Line-4,06-01-2024
+BATCH-1867,Module-Y,185,15,Misalignment,Inspector-4,Line-2,14-12-2024
+BATCH-1868,Module-Y,215,5,Solder Issue,Inspector-3,Line-1,28-06-2024
+BATCH-1870,Module-Y,153,9,Misalignment,Inspector-6,Line-2,07-04-2024
+BATCH-1876,PCB-200,328,26,Misalignment,Inspector-2,Line-3,01-02-2024
+BATCH-1877,Module-Y,228,23,Component Missing,Inspector-6,Line-1,15-12-2024
+BATCH-1881,Module-Y,328,16,Component Missing,Inspector-9,Line-4,02-07-2024
+BATCH-1885,Module-X,219,21,Solder Issue,Inspector-1,Line-4,15-02-2024
+BATCH-1885,PCB-100,168,25,Component Missing,Inspector-8,Line-3,28-04-2024
+BATCH-1886,Module-X,262,28,Misalignment,Inspector-4,Line-4,20-06-2024
+BATCH-1892,PCB-200,239,1,Short Circuit,Inspector-2,Line-3,06-08-2024
+BATCH-1898,Module-Y,186,0,Solder Issue,Inspector-4,Line-3,03-12-2024
+BATCH-1900,Module-X,226,17,Component Missing,Inspector-6,Line-1,28-10-2024
+BATCH-1905,PCB-100,283,25,Misalignment,Inspector-5,Line-4,23-03-2024
+BATCH-1909,Module-Y,154,1,Solder Issue,Inspector-9,Line-4,16-02-2024
+BATCH-1911,PCB-200,279,22,Short Circuit,Inspector-2,Line-3,08-05-2024
+BATCH-1915,PCB-100,233,9,Solder Issue,Inspector-2,Line-3,03-03-2024
+BATCH-1922,PCB-100,222,8,Component Missing,Inspector-8,Line-2,09-06-2024
+BATCH-1923,PCB-100,292,28,Component Missing,Inspector-6,Line-3,02-02-2024
+BATCH-1926,Module-X,243,3,Short Circuit,Inspector-2,Line-2,24-03-2024
+BATCH-1926,PCB-200,337,3,Misalignment,Inspector-4,Line-3,15-10-2024
+BATCH-1930,Module-X,266,23,Solder Issue,Inspector-9,Line-4,18-07-2024
+BATCH-1932,PCB-200,311,18,Solder Issue,Inspector-3,Line-1,16-10-2024
+BATCH-1938,Module-X,150,5,Misalignment,Inspector-7,Line-4,04-03-2024
+BATCH-1942,PCB-200,209,11,Solder Issue,Inspector-9,Line-1,17-01-2024
+BATCH-1943,PCB-200,254,5,Misalignment,Inspector-2,Line-4,09-05-2024
+BATCH-1946,PCB-100,179,8,Solder Issue,Inspector-4,Line-2,03-07-2024
+BATCH-1947,PCB-200,154,11,Short Circuit,Inspector-7,Line-1,03-02-2024
+BATCH-1954,PCB-100,303,16,Solder Issue,Inspector-7,Line-4,08-04-2024
+BATCH-1954,PCB-200,191,28,Component Missing,Inspector-1,Line-2,22-05-2024
+BATCH-1956,PCB-100,221,16,Component Missing,Inspector-9,Line-4,18-01-2024
+BATCH-1956,PCB-100,181,17,Short Circuit,Inspector-2,Line-1,29-10-2024
+BATCH-1957,Module-X,246,24,Component Missing,Inspector-1,Line-1,19-07-2024
+BATCH-1957,PCB-200,302,8,Solder Issue,Inspector-1,Line-1,17-10-2024
+BATCH-1959,PCB-100,202,27,Short Circuit,Inspector-3,Line-4,22-11-2024
+BATCH-1961,Module-X,188,3,Short Circuit,Inspector-4,Line-2,16-04-2024
+BATCH-1963,Module-Y,216,14,Component Missing,Inspector-4,Line-1,19-01-2024
+BATCH-1963,Module-Y,191,0,Short Circuit,Inspector-3,Line-3,10-06-2024
+BATCH-1963,Module-X,182,26,Misalignment,Inspector-5,Line-1,26-09-2024
+BATCH-1972,PCB-200,304,19,Misalignment,Inspector-6,Line-3,17-04-2024
+BATCH-1973,PCB-200,334,24,Short Circuit,Inspector-2,Line-1,04-07-2024
+BATCH-1974,Module-Y,304,14,Misalignment,Inspector-1,Line-1,11-06-2024
+BATCH-1975,Module-X,235,17,Component Missing,Inspector-9,Line-4,29-08-2024
+BATCH-1976,Module-Y,272,12,Solder Issue,Inspector-9,Line-3,17-02-2024
+BATCH-1979,PCB-100,290,24,Misalignment,Inspector-5,Line-3,30-08-2024
+BATCH-1980,Module-X,329,24,Solder Issue,Inspector-6,Line-3,31-08-2024
+BATCH-1982,PCB-200,285,21,Solder Issue,Inspector-9,Line-3,27-09-2024
+BATCH-1982,PCB-100,217,1,Component Missing,Inspector-2,Line-1,18-10-2024
+BATCH-1983,Module-X,304,24,Misalignment,Inspector-8,Line-4,29-04-2024
+BATCH-1984,PCB-100,185,28,Component Missing,Inspector-5,Line-4,12-06-2024
+BATCH-1985,PCB-100,218,2,Short Circuit,Inspector-8,Line-2,20-03-2024
+BATCH-1987,PCB-100,253,9,Solder Issue,Inspector-9,Line-2,04-02-2024
+BATCH-1987,PCB-200,172,17,Solder Issue,Inspector-6,Line-3,01-09-2024
+BATCH-1988,PCB-100,289,6,Misalignment,Inspector-2,Line-4,01-06-2024
+BATCH-1990,Module-X,339,16,Solder Issue,Inspector-7,Line-1,09-04-2024
+BATCH-1993,Module-X,260,4,Misalignment,Inspector-4,Line-3,05-03-2024
+BATCH-1994,PCB-200,249,29,Solder Issue,Inspector-7,Line-3,16-08-2024
+BATCH-1997,PCB-100,221,23,Short Circuit,Inspector-9,Line-1,05-02-2024
